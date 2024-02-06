@@ -8,3 +8,4 @@ CREATE  TABLE IF NOT EXISTS test_flyway.db1 (
     CONSTRAINT pk_db1 PRIMARY KEY ( id )
 );
 
+--
